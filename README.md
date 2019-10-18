@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ready
 
 ## Project setup
